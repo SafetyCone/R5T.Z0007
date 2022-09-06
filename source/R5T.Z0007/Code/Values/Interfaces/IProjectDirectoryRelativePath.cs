@@ -37,6 +37,7 @@ namespace R5T.Z0007
 		public string Functionality_Classes_Directory => @"Code\Functionality\Classes";
 		public string Functionality_Interfaces_Directory => @"Code\Functionality";
 
+		public string Tries_Interfaces_Directory => @"Code\Tries";
 
 		public string Values_Draft_Classes_Directory => @"Code\Values-Draft\Classes";
 		public string Values_Draft_Interfaces_Directory => @"Code\Values-Draft";
