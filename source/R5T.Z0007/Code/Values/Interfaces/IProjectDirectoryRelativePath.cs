@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 using R5T.T0131;
 
@@ -8,7 +8,7 @@ namespace R5T.Z0007
 	[ValuesMarker]
 	public interface IProjectDirectoryRelativePath : IValuesMarker
 	{
-		public string InstanceClassesDirectory => @"Code\Classes\Instances";
+		public string InstanceClassesDirectory => @"Code\ΩInstances";
 
 		
 		public string Demonstrations_Draft_Interfaces_Directory => @"Code\Examinations\Demonstrations-Draft";
